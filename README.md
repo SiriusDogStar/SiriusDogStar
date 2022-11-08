@@ -1,10 +1,12 @@
+<p align="left"> <img src="https://imgur.com/pRmPADV.jpg" width="1000" /> </p>
+
 # Heya, it's ya boy, DogStar 🐶💫
 
 ## About Me
 
 <table>
 <tr>
-<td valign="center">
+<td valign="left">
   
     🎓 I recently graduated with a Master's in Global Security,
         with an emphasis in Cybersecurity.
@@ -12,14 +14,14 @@
     🌱 I am currently a student in Microsoft's MSSA Azure Cloud App Developer 
         program with my cohort, The Runtime Terrors.
     
-    🎯 My Goal is to hone my skills and find myself working alongside
+    🎯 My Goal is to hone my code developer skills and work alongside
         some of the brightest minds in the industry.
     
-    ✨ My current skill set include front-end developing,
-        graphic design and EDM.
+    ✨ My current skill-set includes full-stack website development, business consulting,
+        graphic design, and elctronic music.
     
 <td >
-<img src="https://i.imgur.com/SeTylB7.gif" width="300" /></a>
+<img src="https://i.imgur.com/SeTylB7.gif" width="350" /></a>
 </tr>
 </table>
 
