@@ -15,7 +15,8 @@
     🎯 My Goal is to hone my skills and find myself working alongside
         some of the brightest minds in the industry.
     
-    ✨ My current skill set include front-end developing, graphic design and EDM.
+    ✨ My current skill set include front-end developing,
+        graphic design and EDM.
     
 <td >
 <img src="https://i.imgur.com/SeTylB7.gif" width="300" /></a>
