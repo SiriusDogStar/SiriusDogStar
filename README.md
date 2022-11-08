@@ -7,7 +7,7 @@
 <td valign="center">
   
     🎓 I recently graduated with a Master's in Global Security,
-        with an emphasis in **Cybersecurity**.
+        with an emphasis in Cybersecurity.
     
     🌱 I am currently a student in Microsoft's MSSA Azure Cloud App Developer 
         program with my cohort, The Runtime Terrors.
