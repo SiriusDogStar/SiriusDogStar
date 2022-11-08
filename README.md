@@ -4,7 +4,7 @@
 
 ## About Me
 
-<table>
+<table width="1000">
 <tr> 
 <td valign="left" width="64%">
   
