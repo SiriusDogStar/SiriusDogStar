@@ -5,8 +5,8 @@
 ## About Me
 
 <table>
-<tr>
-<td valign="left">
+<tr> 
+<td valign="left" width="64%">
   
     🎓 I recently graduated with a Master's in Global Security,
         with an emphasis in Cybersecurity.
@@ -17,16 +17,16 @@
     🎯 My Goal is to hone my code developer skills and work alongside
         some of the brightest minds in the industry.
     
-    ✨ My current skill-set includes full-stack website development, business consulting,
-        graphic design, and elctronic music.
+    ✨ My current skill-set includes full-stack website development, 
+        business consulting, graphic design, and elctronic music.
     
-<td >
-<img src="https://i.imgur.com/SeTylB7.gif" width="350" /></a>
+<td width="32%">
+<img src="https://i.imgur.com/SeTylB7.gif" /></a>
 </tr>
 </table>
 
 ## Stats📈 
-<p align="center"> <!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="SiriusDogStar" />-->  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="SiriusDogStar" /> 
+<p align="left"> <!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="SiriusDogStar" />-->  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="SiriusDogStar" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiriusDogStar&theme=highcontrast&hide_border=true" alt="SiriusDogStar" /> </p>
 
 <!--
