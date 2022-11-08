@@ -9,8 +9,8 @@
     🎓 I recently graduated with a Master's in Global Security,
         with an emphasis in Cybersecurity.
     
-    🌱 I am currently a student in Microsoft's MSSA Azure Cloud App Developer program
-        with my cohort, The Runtime Terrors.
+    🌱 I am currently a student in Microsoft's MSSA Azure Cloud App Developer 
+        program with my cohort, The Runtime Terrors.
     
     🎯 My Goal is to hone my skills and find myself working alongside
         some of the brightest minds in the industry.
