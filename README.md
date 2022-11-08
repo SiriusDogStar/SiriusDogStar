@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://imgur.com/pRmPADV.jpg" width="1000" /> </p>
 
-# Heya, it's ya boy, DogStar 🐶💫
+# Hey, I'm DogStar. Welcome. 🐾
 
 ## About Me
 
@@ -8,16 +8,16 @@
 <tr> 
 <td valign="left" width="64%">
   
-    🎓 I recently graduated with a Master's in Global Security,
+    🐕 I recently graduated with a Master's in Global Security,
         with an emphasis in Cybersecurity.
     
-    🌱 I am currently a student in Microsoft's MSSA Azure Cloud App Developer 
+    🦦 I am currently a student in Microsoft's MSSA Azure Cloud App Developer 
         program with my cohort, The Runtime Terrors.
     
-    🎯 My Goal is to hone my code developer skills and work alongside
+    🦅 My Goal is to hone my code developer skills and work alongside
         some of the brightest minds in the industry.
     
-    ✨ My current skill-set includes full-stack website development, 
+    🦈 My current skill-set includes full-stack website development, 
         business consulting, graphic design, and elctronic music.
     
 <td width="32%">
