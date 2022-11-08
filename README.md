@@ -6,7 +6,7 @@
 
 <table width="1000">
 <tr> 
-<td valign="left" width="64%">
+<td valign="left">
   
     🐕 I recently graduated with a Master's in Global Security,
         with an emphasis in Cybersecurity.
@@ -20,7 +20,7 @@
     🦈 My current skill-set includes full-stack website development, 
         business consulting, graphic design, and elctronic music.
     
-<td width="32%">
+<td>
 <img src="https://i.imgur.com/SeTylB7.gif" /></a>
 </tr>
 </table>
