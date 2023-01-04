@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://imgur.com/pRmPADV.jpg" width="1000" /> </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<img width="25%" src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" />
 
 # Hey, I'm DogStar. Welcome. 🐾
 
@@ -34,8 +34,8 @@
 <table width="1000">
   <tr> 
     <td>
-<p align="left"> <!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="SiriusDogStar" />-->  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="SiriusDogStar" /> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiriusDogStar&theme=highcontrast&hide_border=true" alt="SiriusDogStar" /> </p>
+<p align="left"> <!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="SiriusDogStar" />-->  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="SiriusDogStar" /> 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiriusDogStar&theme=highcontrast&hide_border=true" alt="SiriusDogStar" /> </p>
   </tr>
 </table>
 <!--
