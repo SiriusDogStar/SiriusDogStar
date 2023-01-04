@@ -1,12 +1,10 @@
 <p align="left"> <img src="https://imgur.com/pRmPADV.jpg" width="1000" /> </p>
 # Hey, I'm DogStar. Welcome. 🐾
 ## About Me
-
 <table width="1000">
 <tr> 
-<td valign="left" width="64%">
 <td valign="left">
-
+  
     🐕 I recently graduated with a Master's in Global Security,
         with an emphasis in Cybersecurity.
     
@@ -18,15 +16,20 @@
     
     🦈 My current skill-set includes full-stack website development, 
         business consulting, graphic design, and elctronic music.
-
-<td width="32%">
+    
 <td>
 <img src="https://i.imgur.com/SeTylB7.gif" /></a>
 </tr>
 </table>
+
 ## Stats📈 
+<table width="1000">
+  <tr> 
+    <td>
 <p align="left"> <!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="SiriusDogStar" />-->  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiriusDogStar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="SiriusDogStar" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiriusDogStar&theme=highcontrast&hide_border=true" alt="SiriusDogStar" /> </p>
+  </tr>
+</table>
 <!--
 **SiriusDogStar/SiriusDogStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
