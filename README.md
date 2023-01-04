@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://imgur.com/pRmPADV.jpg" width="1000" /> </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 # Hey, I'm DogStar. Welcome. 🐾
 
 ## About Me
@@ -7,6 +9,9 @@
 <table width="1000">
 <tr> 
 <td valign="left">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jbenso-gscs" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jbenso-gscs?trk=profile-badge">Joshua Benson</a></div>
+              
+<td>
   
     🐕 I recently graduated with a Master's in Global Security,
         with an emphasis in Cybersecurity.
