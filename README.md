@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://imgur.com/pRmPADV.jpg" width="1000" /> </p>
+
 # Hey, I'm DogStar. Welcome. 🐾
+
 ## About Me
 <table width="1000">
 <tr> 
